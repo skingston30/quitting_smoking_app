@@ -1,4 +1,4 @@
-const cacheName = 'QSP-v1';
+const cacheName = 'freedom-v1';
 const assets = ['./', './index.html', './style.css', './script.js', './manifest.json'];
 
 // Install the service worker and cache files
